@@ -16,4 +16,4 @@ def longest_substring(s):
     print("Longest substring in alphabetical order is:", longest)
 
 
-longest_substring("mostafa")
+longest_substring("mostzf")
